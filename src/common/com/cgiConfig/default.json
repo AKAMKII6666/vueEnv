@@ -1,0 +1,12 @@
+{
+	"cgiName": "default",
+	"devPort": "http://127.0.0.1:9000",
+	"proPort": "https://www.xx.com",
+	"getSoldNftNo": {
+		"url": "xxx",
+		"method": "get",
+        "paramsType": "url",
+		"defaultPatams": "?aa=bb",
+		"desc": "asdasd"
+	}
+}
